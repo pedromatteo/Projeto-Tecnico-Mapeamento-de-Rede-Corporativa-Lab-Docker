@@ -1,4 +1,3 @@
-
 Inventário Ativo completo dos hosts mapeados (infra_net, corp_net e guest_net)
 
  Sub-rede: infra_net (10.10.50.0/24)
@@ -36,4 +35,3 @@ Inventário Ativo completo dos hosts mapeados (infra_net, corp_net e guest_net)
 | IP            | Origem         | Status             | Observação                           |
 |---------------|----------------|--------------------|--------------------------------------|
 | 10.10.10.5    | guest_net      | Silencioso         | Todas as portas TCP fechadas         |
-
