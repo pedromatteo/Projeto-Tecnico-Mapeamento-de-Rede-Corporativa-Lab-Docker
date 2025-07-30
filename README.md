@@ -20,6 +20,6 @@ Executar varreduras de rede, identificar vulnerabilidades e gerar documentação
 - VSCode
 - Git + GitHub
 
-Autoria
+Autoria:
 Esse repositório foi desenvolvido por Pedro Simplicio, aluno participante da formação em Cybersecurity do projeto Vai na Web + Kensei CyberSec.
 
