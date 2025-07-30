@@ -3,7 +3,7 @@
  *Versão:* 1.0
 
 ## Sumário Executivo
-Durante a análise da infraestrutura de rede simulada via Docker, foi realizado um mapeamento completo das três sub-redes (infraestrutura, corporativa e a de convidados). Foram identificados ativos com e sem portas abertas, inconsistências em alguns nomes de host, e serviços que apresentam risco potencial devido à exposição de portas sensíveis ou ausência de segmentação adequada. Recomendam-se ações imediatas em serviços expostos desnecessariamente, reforço de segmentações e adoção de boas práticas de hardening.
+Durante a análise da infraestrutura de rede simulada via Docker, foi realizado um mapeamento completo das três sub-redes (infraestrutura, corporativa e a de convidados). Foram identificados ativos com e sem portas abertas, inconsistências em alguns nomes de host, e serviços que apresentam risco potencial devido à exposição de portas sensíveis ou ausência de segmentação adequada. Recomendam-se ações imediatas em serviços expostos desnecessariamente e reforço de segmentações
 
 ## Objetivo
 Este documento tem como objetivo apresentar o mapeamento da rede fornecida no laboratório Docker, identificar falhas de exposição e segmentação, e propor um plano de ação com foco 80/20 visando mitigar rapidamente os maiores riscos identificados.
