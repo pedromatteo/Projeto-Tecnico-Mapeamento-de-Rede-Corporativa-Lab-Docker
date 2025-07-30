@@ -1,12 +1,11 @@
 # Projeto de Segurança de Redes – Análise e Relatório
 
-Este repositório contém o relatório técnico produzido para a disciplina de [nome da disciplina] ou projeto de segurança de redes.
+Este repositório contém o relatório técnico produzido para o desafio final do curso de Cybersec da Vai na Web + Kensei.
 
 ## Conteúdo
 
  -> DocumentoTécnico.md: Relatório completo da análise, incluindo topologia da rede, achados, evidências e impactos.
- -> a/: Pasta contendo imagens utilizadas no relatório, como diagramas de rede e evidências.
- -> Tabelas de inventário, achados e impactos organizadas no formato Markdown para fácil leitura.
+ -> Arquivo em pdf: Pasta contendo imagens utilizadas no relatório, como diagramas de rede e evidências, diagnóstico.
 
 ## Objetivo
 
@@ -14,9 +13,13 @@ Executar varreduras de rede, identificar vulnerabilidades e gerar documentação
 
 ## Ferramentas utilizadas
 
-- Cisco Packet Tracer
+- Docker Desktop
+- WSL
 - Nmap
-- Linux (comandos básicos)
+- Cisco Packet Tracer
 - VSCode
 - Git + GitHub
+
+Autoria
+Esse repositório foi desenvolvido por Pedro Simplicio, aluno participante da formação em Cybersecurity do projeto Vai na Web + Kensei CyberSec.
 

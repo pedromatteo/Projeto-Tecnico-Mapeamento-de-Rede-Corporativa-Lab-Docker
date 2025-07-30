@@ -1,7 +1,0 @@
-## Análise de Vulnerabilidades
-
-| Achado                         | Evidência                                               | Impacto                                                      |
-|------------------------------- |-------------------------------------------------------- |--------------------------------------------------------------|
-| Porta 111 exposta (RPC)        | Scan Nmap: porta 111/tcp aberta em 10.10.10.101         | Pode permitir enumeração ou exploração de serviços RPC       |
-| Host sem resposta (silencioso) | Ping falhou: 10.10.10.5 não respondeu                   | Pode indicar host camuflado, com firewall ou stealth ativo   |
-| Banner exposto no SSH          | nmap -sV revelou versão desatualizada do OpenSSH        | Potencial vulnerabilidade conhecida CVE                      |

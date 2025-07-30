@@ -45,13 +45,30 @@ A rede apresenta exposição desnecessária em alguns serviços e falhas de segm
 
 ## Anexos
   ## Inventário de Ativos
-  ![InventariodeAtivos](a/DesafioFinal/InventariodeAtivos.txt)
+
+Este anexo apresenta o inventário de ativos identificados e utilizados no escopo da análise. Foram considerados todos os dispositivos visíveis na rede durante os testes de varredura e diagnóstico, bem como os que foram adicionados na simulação para fins ilustrativos.
+
+Cada ativo está descrito com as seguintes informações, quando disponíveis:
+
+- Nome do host ou identificador
+- Endereço IP
+- Sistema operacional (quando detectado)
+- Função na rede (ex.: servidor, estação de trabalho, roteador)
+- Status de atividade durante os testes (ativo, silencioso, inacessível)
+
+Este inventário serve como referência para correlacionar os resultados obtidos nas análises de conectividade, varredura de portas e detecção de serviços.
+
+![InventariodeAtivos](a/DesafioFinal/InventariodeAtivos.md)
 
 ## Diagrama de Rede
+
+O diagrama da rede foi desenvolvido no Cisco Packet Tracer com o objetivo de representar visualmente a estrutura da rede abordada neste projeto. Essa simulação não incluiu o tráfego real ou a configuração funcional de serviços, sendo utilizada apenas como ilustração topológica dos dispositivos, segmentos e conexões analisados nos testes de diagnóstico e varredura.
+
 ![DiagramadaRede](a/img/DesafioFinal/DiagramadaRede.png)
-
-  ## Saídas dos scans do Nmap
-
+ 
+ 
+ 
+## Saídas dos scans do Nmap
   Scripts e comandos utilizados (disponível sob demanda)
   A seguir estão listados os comandos efetivamente utilizados para realizar a descoberta de hosts, escaneamento de portas e análise de serviços nas sub-redes da infraestrutura simulada.
 
