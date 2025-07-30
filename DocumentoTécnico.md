@@ -58,13 +58,13 @@ Cada ativo está descrito com as seguintes informações, quando disponíveis:
 
 Este inventário serve como referência para correlacionar os resultados obtidos nas análises de conectividade, varredura de portas e detecção de serviços.
 
-![InventariodeAtivos](a/DesafioFinal/InventariodeAtivos.md)
+[Acessar Inventário de Ativos em PDF](./Anexos.pdf)
 
 ## Diagrama de Rede
 
 O diagrama da rede foi desenvolvido no Cisco Packet Tracer com o objetivo de representar visualmente a estrutura da rede abordada neste projeto. Essa simulação não incluiu o tráfego real ou a configuração funcional de serviços, sendo utilizada apenas como ilustração topológica dos dispositivos, segmentos e conexões analisados nos testes de diagnóstico e varredura.
 
-![DiagramadaRede](a/img/DesafioFinal/DiagramadaRede.png)
+[Acessar Diagrama de Rede em PDF](Anexos.pdf)
  
  
  
